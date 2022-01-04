@@ -5,7 +5,7 @@
 <h2>JavaScript Arithmetic</h2>
 <h3>The + Operator</h3>
 
-<p id="demo"></p>
+<p id="test"></p>
 
 <script>
 let x = 5;
