@@ -9,7 +9,7 @@
 
 <script>
 let x = 6;
-let y = 2;
+let y = 4;
 let z = x + y;
 document.getElementById("test").innerHTML = z;
 </script>
