@@ -11,7 +11,7 @@
 let x = 6;
 let y = 2;
 let z = x + y;
-document.getElementById("demo").innerHTML = z;
+document.getElementById("test").innerHTML = z;
 </script>
 
 </body>
