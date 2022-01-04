@@ -8,7 +8,7 @@
 <p id="test"></p>
 
 <script>
-let x = 5;
+let x = 6;
 let y = 2;
 let z = x + y;
 document.getElementById("demo").innerHTML = z;
